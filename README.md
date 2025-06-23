@@ -99,6 +99,6 @@ This is a **CRUD API** built with **ASP.NET Core** for managing employee records
 ## 👨‍💻 Author
 
 Developed by Gufraan Ansari 
-LinkedIn: https://linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username  
+LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/gufraan-ansari-30448b196/)
+GitHub: [https://github.com/your-username ](https://github.com/gansari231) 
 Email: ansarigufraan0@gmail.com
