@@ -58,8 +58,8 @@ This is a **CRUD API** built with **ASP.NET Core** for managing employee records
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/employee-admin-api.git
-   cd employee-admin-api
+   https://github.com/gansari231/EmployeeAdminPortal.git
+   cd EmployeeAdminPortal
    ```
 
 2. **Restore and build the project**
@@ -75,7 +75,7 @@ This is a **CRUD API** built with **ASP.NET Core** for managing employee records
 
 4. **Access Swagger UI**
    ```
-   https://localhost:{port}/swagger
+   https://localhost:7274/swagger
    ```
 
 ---
